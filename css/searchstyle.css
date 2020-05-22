@@ -1,0 +1,40 @@
+ 
+.box2
+{   
+    position:absolute;
+	margin-top:600px;
+	margin-bottom:100px;
+	left:50%;
+	transform:translate(-50%,-50%);
+	background:rgba(0,0,0,0.7);
+	border-radius:10px;
+}	
+.box2 table tr{
+	height:50px;
+}
+.box2 h2{
+	color:white;
+	height:60px;
+	text-align:center;
+	margin-top:20px;
+}
+.box2 table td,th{
+	width:250px;
+	text-align:center;
+}
+
+#b1{
+	
+	text-decoration:none;
+	color:skyblue;
+	font-size:25px;
+	font-weight:bold;
+}
+#b2{
+	margin-left:100px;
+	text-decoration:none;
+	color:skyblue;
+	font-size:25px;
+	font-weight:bold;
+}
+  

@@ -1,0 +1,58 @@
+  body{
+	
+	background-image:url('../cimg/img15.jpg');
+	background-repeat:no-repeat;
+	height:100%;
+	margin:0px;
+	padding:0px;
+	background-size:cover;
+	background-position:center;
+      }
+	  
+.box
+{   
+    position:absolute;
+	top:70%;
+	left:50%;
+	transform:translate(-50%,-50%);
+	background:rgba(0,0,0,0.7);
+	border-radius:10px;
+}	
+.box table tr{
+	height:50px;
+}
+.box h2{
+	color:white;
+	height:60px;
+	text-align:center;
+	margin-top:20px;
+}
+.l
+{
+	color:white;
+	font-size:22px;
+}
+.ip
+{
+	width:100%;
+	height:30px;
+	font-size:20px;
+	
+}
+
+#b{
+	width:100px;
+	height:40px;
+	border-radius:10px;
+	background:skyblue;
+	color:black;
+	font-size:20px;
+	font-weight:bold;
+}
+
+#ex{
+	color:skyblue;
+	font-size:20px;
+}
+
+  
